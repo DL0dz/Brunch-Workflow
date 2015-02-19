@@ -15,7 +15,7 @@ First of all, you need to install Nodejs, then launch those differents commands 
   * Install Chrome fb-flo extension
   * Launch your brunch server : `brunch watch --server`
   * Open a new CLI, open the 'tools' folder, and launch your fb-flo server : `node flo-server.js`
-  * Go to http://localhost:3333, press F12 and check if the flo server works the in 'flo' tab.
+  * Go to `http://localhost:3333`, press F12 and check if the flo server works the in 'flo' tab.
   * Start to code edit your 'main.styl' and 'global.js' files in the app folder. You can create a .jade file in 'app/view/template'
   or edit the index.html sample directly from the 'public' folder.
   * Enjoy !
