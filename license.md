@@ -1,1 +1,0 @@
-You have to check the licenses for each components of this app (html5 boilerplate, brunch, fb-flo...)

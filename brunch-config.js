@@ -1,5 +1,6 @@
 exports.config = {
     "files": {
+
         "stylesheets": {
             "joinTo": "css/app.min.css"
         },
@@ -9,6 +10,11 @@ exports.config = {
         "templates": {
             "joinTo": "js/app.min.js"
         }
+    },
+    "plugins": {
+      "sass": {
+          "allowCache": true
+      }
     },
     "modules": {
         "wrapper": false,
